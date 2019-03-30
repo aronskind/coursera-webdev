@@ -16,6 +16,8 @@ h1 {
 h3 {
 	text-align: center;
 	margin-top: 0px;
+	color: white;
+	font-style: italic;
 }
 
 .title-card {
@@ -24,37 +26,48 @@ h3 {
 	width: 100px;
 	float: right;
 	height: 30px;
-	margin-top: 10px;
 }
 
-.title-card#one {
+#one {
 	background-color: brown;
 }
 
-.title-card#two {
+#two {
 	background-color: blue;
 }
 
-.title-card#three {
+#three {
 	background-color: red;
 }
 
 .section {
 	background-color: #ffb7e7;
+	margin: 10px;
+	width: 33%;
+	float: left;
+	clear: right;
 }
 
 p {
 	clear: right;
+	margin: 10px;
 }
 
 @media (min-width: 992px) {
-
+	.section {
+		width: 33%;
+	}
 }
 
 @media (max-width: 991px) and (min-width: 768px) {
-
+	.section {
+		width: 50%;
+	}
 }
 
 @media (max-width: 767px) {
+	.section {
+		width: 100%;
+	}
 
 }
