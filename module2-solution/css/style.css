@@ -1,0 +1,60 @@
+* {
+	font-family: sans-serif;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+body {
+	background-color: #cfffbf;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	margin-top: 0px;
+}
+
+.title-card {
+	border: 1px;
+	border-color: black;
+	width: 100px;
+	float: right;
+	height: 30px;
+	margin-top: 10px;
+}
+
+.title-card#one {
+	background-color: brown;
+}
+
+.title-card#two {
+	background-color: blue;
+}
+
+.title-card#three {
+	background-color: red;
+}
+
+.section {
+	background-color: #ffb7e7;
+}
+
+p {
+	clear: right;
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
