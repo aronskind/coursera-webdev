@@ -17,8 +17,8 @@ h1 {
 
 .section {
 	background-color: #ffb7e7;
-	margin-top: 10px;
-	margin-left: 2%;
+	margin-top: 20px;
+	margin-left: 3%;
 	float: left;
 	position: relative;
 	top: 50px;
@@ -33,21 +33,20 @@ p {
 }
 
 .title-card {
-	width: 120px;
+	width: 100px;
 	float: right;
-	position: relative;
-	right: 0px;
-	height: 30px;
+	height: 20px;
+	margin: 0;
 }
 
 h3.title {
 	color: white;
 	font-style: italic;
-	position: absolute;
-	top: 10%;
-	left: 40px;
-	font-size: : 100px;
-	text-align: center;
+	position: relative;
+	top: 0%;
+	right: 100%;
+	margin: 0;
+	
 }
 
 #one {
@@ -64,22 +63,24 @@ h3.title {
 
 @media (min-width: 992px) {
 	.section {
-		width: 30%;
+		width: 28.67%;
 	}
 }
 
 @media (max-width: 991px) and (min-width: 768px) {
 	.section {
-		width: 92%;
+		width: 91%;
 	}
 
 	#box1, #box2 {
-		width: 45%;
+		width: 44%;
 	}
+
+}
 
 @media (max-width: 767px) {
 	.section {
-		width: 100%;
+		width: 89%;
 	}
 
 }
