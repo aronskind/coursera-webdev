@@ -1,4 +1,7 @@
 # coursera-webdev
-HTML, CSS, and Javascript for Web Developers (Coursera, Johns Hopkins University)
+<p>HTML, CSS, and Javascript for Web Developers (Coursera, Johns Hopkins University)</p>
 
-Class Materials can be found <a href="https://github.com/jhu-ep-coursera/fullstack-course4">here</a>
+<p><a href="https://github.com/jhu-ep-coursera/fullstack-course4">Class Materials</a></p>
+
+<p><a href="https://aronskind.github.io/coursera-webdev/module2-solution">Module 2 Solution</a></p>
+<p><a href="https://aronskind.github.io/coursera-webdev/module3-solution">Module 3 Solution</a></p>
