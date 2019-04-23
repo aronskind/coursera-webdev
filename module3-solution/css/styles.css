@@ -1,0 +1,8 @@
+#chicken-section {
+	background: #a3ede0;
+	height: 1000px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
