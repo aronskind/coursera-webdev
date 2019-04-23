@@ -1,8 +1,29 @@
-#chicken-section {
+#chicken, #beef, #sushi {
 	background: #a3ede0;
-	height: 1000px;
+	height: 700;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
+}
+
+@media (max-width: 567px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+@media (min-width: 568px) and (max-width: 991px) {
+  .hidden-sm {
+    display: none !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .hidden-md {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  .hidden-lg {
+    display: none !important;
+  }
 }
