@@ -6,3 +6,4 @@
 <p><a href="https://aronskind.github.io/coursera-webdev/module2-solution">Module 2 Solution</a></p>
 <p><a href="https://aronskind.github.io/coursera-webdev/module3-solution">Module 3 Solution</a></p>
 <p><a href="https://aronskind.github.io/coursera-webdev/module4-solution">Module 4 Solution</a></p>
+<p><a href="https://aronskind.github.io/coursera-webdev/module5-solution">Module 5 Solution</a></p>
